@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JM261&show_icons=true&theme=merko)
+
 # Hi I'm JM
 
